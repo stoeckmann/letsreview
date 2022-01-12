@@ -5,6 +5,7 @@ These are additional notes to [our talk](https://media.ccc.de/v/rc3-2021-cwtv-22
 
 - [Tips for forming a group](groups.md)
 - [Scaling your group](scaling.md)
+- [Different roles and types of reviewers in a group](roles.md)
 
 # Feedback
 
