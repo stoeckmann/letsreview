@@ -1,5 +1,5 @@
 # letsreview
-Notes and Thoughts for Review Groups
+Notes and Thoughts for Review Groups.
 
 These are additional notes to [our talk](https://media.ccc.de/v/rc3-2021-cwtv-228-lets-review-code-toget).
 
@@ -14,3 +14,10 @@ to look around if someone else wants to start one with you.
 
 You can also add your own ideas through pull requests or add an issue
 if you have further questions.
+
+# Known Groups
+
+- C3H2-CTF ([GitHub](https://github.com/c3h2-ctf/),
+  [Twitter](https://twitter.com/c3h2_ctf)), reviewing popular tools
+- TheBorrowCheckers ([GitHub](https://github.com/TheBorrowCheckers/),
+  [Twitter](https://twitter.com/sagi_schwarz)), reviewing Rust code
