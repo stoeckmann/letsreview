@@ -23,3 +23,4 @@ if you have further questions.
   reviewing Python code
 - TheBorrowCheckers ([GitHub](https://github.com/TheBorrowCheckers/about),
   [Twitter](https://twitter.com/sagi_schwarz)), reviewing Rust code
+- CasualCCodeReviewers ([GitHub](https://github.com/CasualCCodeReviewers)), reviewing C++ code
