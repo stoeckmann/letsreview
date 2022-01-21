@@ -19,5 +19,7 @@ if you have further questions.
 
 - C3H2-CTF ([GitHub](https://github.com/c3h2-ctf/),
   [Twitter](https://twitter.com/c3h2_ctf)), reviewing popular tools
+- ThanatosisSerpentis ([GitHub](https://github.com/ThanatosisSerpentis)),
+  reviewing Python code
 - TheBorrowCheckers ([GitHub](https://github.com/TheBorrowCheckers/about),
   [Twitter](https://twitter.com/sagi_schwarz)), reviewing Rust code
