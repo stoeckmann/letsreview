@@ -19,7 +19,7 @@ if you have further questions.
 
 - C3H2-CTF ([GitHub](https://github.com/c3h2-ctf/),
   [Twitter](https://twitter.com/c3h2_ctf)), reviewing popular tools
-- CasualCCodeReviewers ([GitHub](https://github.com/CasualCCodeReviewers)), reviewing C++ code
+- CasualCCodeReviewers ([GitHub](https://github.com/CasualCCodeReviewers/about)), reviewing C code
 - LetsReadJava ([GitHub](https://github.com/LetsReadJava)), reviewing Java code
 - ThanatosisSerpentis ([GitHub](https://github.com/ThanatosisSerpentis)),
   reviewing Python code
