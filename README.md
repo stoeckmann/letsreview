@@ -21,5 +21,3 @@ if you have further questions.
 - LetsReadJava ([GitHub](https://github.com/LetsReadJava/About)), reviewing Java code
 - ThanatosisSerpentis ([GitHub](https://github.com/ThanatosisSerpentis/about)),
   reviewing Python code
-- TheBorrowCheckers ([GitHub](https://github.com/TheBorrowCheckers/about),
-  [Twitter](https://twitter.com/sagi_schwarz)), reviewing Rust code
