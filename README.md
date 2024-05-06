@@ -14,10 +14,3 @@ to look around if someone else wants to start one with you.
 
 You can also add your own ideas through pull requests or add an issue
 if you have further questions.
-
-# Known Groups
-
-- CasualCCodeReviewers ([GitHub](https://github.com/CasualCCodeReviewers/about)), reviewing C code
-- LetsReadJava ([GitHub](https://github.com/LetsReadJava/About)), reviewing Java code
-- ThanatosisSerpentis ([GitHub](https://github.com/ThanatosisSerpentis/about)),
-  reviewing Python code
